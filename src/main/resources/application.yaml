@@ -1,1 +1,7 @@
 
+openfeign:
+  jsonplaceholder:
+    baseUrl: https://jsonplaceholder.typicode.com
+
+logging.level:
+  org.zenith.openfeignHandson: DEBUG
